@@ -20,5 +20,5 @@
 
 ![Status Perfil](https://github-readme-stats.vercel.app/api?username=cleitonpecunha&hide=stars,prs,issues,contribs&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonpecunha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonpecunha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
