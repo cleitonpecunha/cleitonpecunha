@@ -16,3 +16,4 @@
 
 ## ⭐ Aprendendo Atualmente
 
+![Status Perfil](https://github-readme-stats.vercel.app/api?username=cleitonpecunha&show_icons=true&theme=transparent)
