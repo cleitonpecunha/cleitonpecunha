@@ -1,5 +1,7 @@
 ## Olá 👋
 
+![Imagem de boas vindas](./github-header-image.png)
+
 ### Quem sou eu ?
 
 😄Pronome: Ele/Dele
